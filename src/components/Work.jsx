@@ -60,7 +60,7 @@ const Work = () => {
                                 flex flex-col justify-center items-center'>
                 <span className='text-2xl font-semibold text-black tracking-wider'>Portfolio Webpage</span>
                 <div className='pt-8 text center'>
-                    <a href="/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/Inuyowo2/portfoliofinale" target="_blank" rel="noopener noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 
                                         bg-white text-black font-bold text-lg'>
                             GO
