@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2114bae.css",
+    "main.js": "/static/js/main.21a08ae5.js",
+    "static/media/campproj.png": "/static/media/campproj.8964534fbb86ebf49774.png",
+    "static/media/portfolioproj.png": "/static/media/portfolioproj.1112992202905c09694a.png",
+    "static/media/vbnet_logo.png": "/static/media/vbnet_logo.a882621959360a4a02b9.png",
+    "static/media/fblogo.png": "/static/media/fblogo.790642551cd99bb66a7e.png",
+    "static/media/herologo.png": "/static/media/herologo.f61ec85bd5731cc74210.png",
+    "static/media/rafaelramos.jpg": "/static/media/rafaelramos.5ee2d0ac903417097b39.jpg",
+    "static/media/mysqlwork_logo.png": "/static/media/mysqlwork_logo.c3f3658c9c8a261d0f5c.png",
+    "static/media/bankingapp.png": "/static/media/bankingapp.94748113a1de99b5d10a.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/githublogo.png": "/static/media/githublogo.de7395763faa09623bf5.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.a2114bae.css.map": "/static/css/main.a2114bae.css.map",
+    "main.21a08ae5.js.map": "/static/js/main.21a08ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2114bae.css",
+    "static/js/main.21a08ae5.js"
+  ]
+}

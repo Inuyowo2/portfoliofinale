@@ -15,30 +15,48 @@ const Skills = () => {
         What <br/> I've <br/> Learned
         </h2>
 
-            <div className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">
+            <a href="https://html.com/html5/" 
+            target="_blank" rel="noopener noreferrer">
+            <button className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">
             <img src={html} alt=""/>
             <p className='mt-2'>html</p>
-            </div>
-
+            </button>
+            </a>
+            
+            <a href="https://tailwindcss.com/" 
+            target="_blank" rel="noopener noreferrer">
             <div className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">
             <img src={tailwind} alt=""/>
             <p className='mt-2'>Tailwind</p>
             </div>
+            </a>
 
+
+            <a href="https://www.javascript.com/" 
+            target="_blank" rel="noopener noreferrer">
             <div className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">
             <img src={javascript} alt=""/>
             <p className='mt-2'>Javascript</p>
             </div>
+            </a>
 
+
+            <a href="https://visualstudio.microsoft.com/" 
+            target="_blank" rel="noopener noreferrer">
             <div className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">
             <img src={vbnet} alt=""/>
             <p className='mt-2'>Visual Basic</p>
             </div>
+            </a>
 
+
+            <a href="https://www.mysql.com/" 
+            target="_blank" rel="noopener noreferrer">
             <div className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">
             <img src={mysql} alt=""/>
             <p className='mt-2'>MySQL</p>
             </div>
+            </a>
     </div>
   )
 }
